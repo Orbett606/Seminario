@@ -1,0 +1,16 @@
+﻿survey_idno,sid,file_id,vid,name,labl,var_intrvl,var_dcml,var_wgt,var_start_pos,var_end_pos,var_width,var_imputation,var_security,var_respunit,var_qstn_preqtxt,var_qstn_qstnlit,var_qstn_postqtxt,var_qstn_ivulnstr,var_universe,var_sumstat,var_txt,var_catgry,var_codinstr,var_concept,var_format,var_notes
+DANE-DIMPE-ENUT-2016-2017,552,F31,V2704,P1110S6,"Navegar por internet con fines recreativos, chatear, jugar con el computador o con una consola de videojuegos, haciendo otras actividades.",discrete,0,,,,,,,,"I.27. El día [...], ¿cuáles de las siguientes actividades de uso de medios de comunicación realizó <…>? :
+
+e. Navegar por internet con fines recreativos, chatear, jugar con el computador o con una consola de videojuegos, sin hacer otra actividad.
+
+¿Durante cuánto tiempo?
+
+Minutos","I.27. El día [...], ¿cuáles de las siguientes actividades de uso de medios de comunicación realizó <…>? :
+
+f. Navegar por internet con fines recreativos, chatear, jugar con el computador o con una consola de videojuegos, haciendo otras actividades.","I.27. El día [...], ¿cuáles de las siguientes actividades de uso de medios de comunicación realizó <…>? :
+
+f. Navegar por internet con fines recreativos, chatear, jugar con el computador o con una consola de videojuegos, haciendo otras actividades. 
+
+¿Durante cuánto tiempo?
+
+Horas",,,"[{""value"":""0"",""type"":""vald"",""wgtd"":null},{""value"":""0"",""type"":""invd"",""wgtd"":null}]",,[],,[],"{""type"":""numeric"",""schema"":""other"",""category"":null,""name"":null}",
